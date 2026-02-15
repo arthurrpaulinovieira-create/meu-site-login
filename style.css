@@ -10,7 +10,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-image: url("https://cdn.discordapp.com/attachments/1381790730539761734/1472028989177462804/ChatGPT_Image_13_de_fev._de_2026_21_37_20.png?ex=69911553&is=698fc3d3&hm=2171f644e2f99fcd02c2d722d912f890446e658ebe50c125719120b3df81f37e");
+  background-image: url("images/image.png");
   background-size: cover;
   background-position: center;
 }
@@ -118,3 +118,4 @@ body {
   align-items: center;
   justify-content: space-between;
 }
+
